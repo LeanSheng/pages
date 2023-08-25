@@ -1,6 +1,6 @@
 =========================
 Sphinx to GitHub Pages V3
-=========================
+==========================
 
 .. image:: https://img.shields.io/github/stars/sphinx-notes/pages.svg?style=social&label=Star&maxAge=2592000
    :target: https://github.com/sphinx-notes/pages
