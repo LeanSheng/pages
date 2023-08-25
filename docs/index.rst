@@ -16,3 +16,11 @@ as part of **The Sphinx Notes Project**.
    PyPI <https://pypi.org/search/?q=sphinxnotes>
 
 __ https://github.com/SilverRainZ
+
+Contents
+========
+
+.. toctree::
+   :caption: Contents
+
+   install
