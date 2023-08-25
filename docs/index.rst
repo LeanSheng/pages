@@ -1,7 +1,4 @@
 .. This file is generated from sphinx-notes/template. DO NOT EDIT.
-
-.. include:: ../README.rst
-
 The Sphinx Notes Project
 ========================
 
